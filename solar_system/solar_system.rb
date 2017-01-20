@@ -83,3 +83,12 @@ mars = Planet.new("Mars", 20, 24, 365)
 saturn = Planet.new("Saturn", 55, 24, 365)
 sun = Star.new("Sun", 333, "G-type")
 moon = Moon.new("Moon", 7, 24, 365)
+
+
+#adding Bodies
+
+frank.add(earth)
+frank.add(mars)
+frank.add(saturn)
+frank.add(sun)
+frank.add(moon)
